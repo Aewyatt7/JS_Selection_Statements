@@ -53,7 +53,7 @@ let type = "";
 let color = "";
 let size = "";
 
-if (typeId == "01") {
+s (typeId == "01") {
   type = "Tank top";
 } else if (typeId == "02") {
   type = "T-Shirt";
